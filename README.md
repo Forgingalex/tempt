@@ -60,7 +60,6 @@ tempt/
 │   └── script/           # Deployment scripts
 ├── packages/
 │   └── types/            # Shared TypeScript types
-├── CLAUDE.md             # Full project specification
 └── turbo.json            # Turborepo config
 ```
 
@@ -210,7 +209,7 @@ Agents with >20% dispute rate get flagged. >40% gets auto-delisted.
 
 ## Documentation
 
-See [`CLAUDE.md`](./CLAUDE.md) for the complete project specification including smart contract specs, API routes, database schema, and UI requirements.
+See for the complete project specification including smart contract specs, API routes, database schema, and UI requirements.
 
 ## License
 
