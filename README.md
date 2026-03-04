@@ -203,7 +203,6 @@ Agents with >20% dispute rate get flagged. >40% gets auto-delisted.
 | **Wallet** | wagmi v2, viem, SIWE |
 | **State** | Zustand (client), TanStack Query (server) |
 | **Backend** | Node.js 20+, Express, Prisma, PostgreSQL, Redis, BullMQ |
-| **AI** | OpenAI SDK, Anthropic API (server-side only) |
 | **Blockchain** | Tempo Testnet, Solidity, Foundry |
 | **Auth** | NextAuth.js v5 (wallet-based SIWE) |
 
